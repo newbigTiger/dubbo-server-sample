@@ -1,0 +1,5 @@
+META-INF.spring\
+
+# Project exclude paths
+/dubbo-server/target/
+/dubbo-server-api/target/
